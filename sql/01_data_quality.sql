@@ -20,3 +20,5 @@ FROM customers;
 -- Check total sellers
 SELECT COUNT(*) AS total_sellers
 FROM sellers;
+
+
